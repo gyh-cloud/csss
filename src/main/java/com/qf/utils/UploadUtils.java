@@ -1,4 +1,4 @@
-package com.zy.utils;
+package com.qf.utils;
 
 import com.google.gson.Gson;
 import com.qiniu.common.QiniuException;
